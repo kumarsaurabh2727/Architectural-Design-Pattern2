@@ -14,7 +14,7 @@ The adapter design pattern is used in the following scenarios:
 * **API Version Migration**
 
 ## Basic Flow
-![alt text](image-5.png)
+![alt text](image.png)
 
 Example: - **Application-->EmailAdapter--> External Mail Service** or
 

@@ -11,7 +11,7 @@ You can use the decorator design pattern in the following scenarios:
 * **Push Notification**
 
 ## Basic Flow
-![alt text](image-3.png)
+![alt text](image-1.png)
 
 You can understand this data as follows:
 

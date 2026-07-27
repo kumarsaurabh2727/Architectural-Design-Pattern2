@@ -17,7 +17,7 @@ The above builder creates a user profile by executing the above set of functions
 * **Complex Configuration Systems**
 
 ## Basic Flow
-![alt text](image-2.png)
+![alt text](image.png)
 
 Example: - **Application---> UserBuilder---> build()---> User Object**
 
