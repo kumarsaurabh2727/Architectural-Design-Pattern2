@@ -1,3 +1,7 @@
+---
+title: A Guide to Arahictectural Design Pattern
+---
+
 Welcome to my sample site that demonstrates the perfect example of creating a website of documents by following the Docs-as-Code framework.
 
 # Content
